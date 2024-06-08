@@ -3,7 +3,7 @@
 $server="localhost";
 $username="root";
 $password="admin";
-$db="sparks_bank";
+$db="MYSQLCONNSTR_localdb";
 
 $conn=mysqli_connect($server,$username,$password,$db);
 
